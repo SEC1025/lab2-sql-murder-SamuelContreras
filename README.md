@@ -44,7 +44,7 @@ Con la información del reporte, se procedió a buscar a los testigos en la tabl
 | 14887 | Morty Schapiro  | Northwestern Dr |
 | 16371 | Annabel Miller  | Franklin Ave    |
 
-![Testigos localizados](evidencias/Evidencia_3.png)
+![Testigos localizados](evidencia/Evidencia_3.png)
 *Imagen 3: Datos de los testigos en la base de datos*
 
 ---
