@@ -15,7 +15,7 @@ La investigación comenzó examinando todos los reportes de crímenes disponible
 
 *Resultado inicial: Múltiples reportes en diferentes ciudades*
 
-![Resultado consulta 1](evidencia/Evidencia 1.png)
+![Resultado consulta 1](evidencia/Evidencia_1.png)
 *Imagen 1: Resultados de la primera consulta exploratoria*
 
 ---
@@ -28,7 +28,7 @@ Para acotar la búsqueda, se filtraron los resultados para mostrar únicamente e
 - El primer testigo vive en la última casa de *Northwestern Dr*
 - El segundo testigo se llama *Annabel* y vive en *Franklin Ave*
 
-![Evidencia del crimen](evidencia/Evidencia 2.png)
+![Evidencia del crimen](evidencia/Evidencia_2.png)
 *Imagen 2: Reporte detallado del asesinato en SQL City*
 
 ---
@@ -44,7 +44,7 @@ Con la información del reporte, se procedió a buscar a los testigos en la tabl
 | 14887 | Morty Schapiro  | Northwestern Dr |
 | 16371 | Annabel Miller  | Franklin Ave    |
 
-![Testigos localizados](evidencias/Evidencia 3.png)
+![Testigos localizados](evidencias/Evidencia_3.png)
 *Imagen 3: Datos de los testigos en la base de datos*
 
 ---
@@ -59,7 +59,7 @@ Una vez identificados, se procedió a interrogar a los testigos consultando sus 
 
 > **Annabel Miller:** "Reconocí al asesino del gimnasio cuando volví a entrenar el 9 de enero."
 
-![Testimonios](evidencia/Evidencia 4.png)
+![Testimonios](evidencia/Evidencia_4.png)
 *Imagen 4: Transcripciones completas de los testimonios*
 
 ---
@@ -75,7 +75,7 @@ Aplicando la primera pista de Morty, se buscaron en el gimnasio los socios con m
 | 48Z7A  | 28819     | Joe Germuska  | gold   |
 | 48Z55  | 67318     | Jeremy Bowers | gold   |
 
-![Socios del gimnasio](evidencia/Evidencia 5.png)
+![Socios del gimnasio](evidencia/Evidencia_5.png)
 *Imagen 5: Listado de socios gold con membresías 48Z*
 
 ---
@@ -90,7 +90,7 @@ Para reducir la lista de sospechosos, se cruzaron sus datos con la tabla de lice
 |-------|---------------|-----------|
 | 67318 | Jeremy Bowers | H42W0X    |
 
-![Matrícula del sospechoso](evidencia/Evidencia 7.png.jpg)
+![Matrícula del sospechoso](evidencia/Evidencia_6.png)
 *Imagen 6: Confirmación de la matrícula del vehículo*
 
 ---
